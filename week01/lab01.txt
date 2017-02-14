@@ -1,0 +1,22 @@
+total 76
+drwxr-xr-x 18 disa.ainun StafCS 4096 Feb 14 16:00 .
+drwx--x--x  3 disa.ainun StafCS 4096 Feb 14 15:32 ..
+drwxr-xr-x  8 disa.ainun StafCS 4096 Feb 14 15:59 .git
+drwxr-xr-x  2 disa.ainun StafCS 4096 Feb 14 15:41 key
+-rw-r--r--  1 disa.ainun StafCS    0 Feb 14 16:01 lab01.txt
+drwxr-xr-x  2 disa.ainun StafCS 4096 Feb 14 15:41 log
+-rw-r--r--  1 disa.ainun StafCS    7 Feb 14 15:32 README.md
+drwxr-xr-x  2 disa.ainun StafCS 4096 Feb 14 15:48 sandbox
+drwxr-xr-x  2 disa.ainun StafCS 4096 Feb 14 15:58 week00
+drwxr-xr-x  2 disa.ainun StafCS 4096 Feb 14 15:38 week01
+drwxr-xr-x  2 disa.ainun StafCS 4096 Feb 14 15:38 week02
+drwxr-xr-x  2 disa.ainun StafCS 4096 Feb 14 15:38 week03
+drwxr-xr-x  2 disa.ainun StafCS 4096 Feb 14 15:39 week04
+drwxr-xr-x  2 disa.ainun StafCS 4096 Feb 14 15:39 week05
+drwxr-xr-x  2 disa.ainun StafCS 4096 Feb 14 15:40 week06
+drwxr-xr-x  2 disa.ainun StafCS 4096 Feb 14 15:40 week07
+drwxr-xr-x  2 disa.ainun StafCS 4096 Feb 14 15:40 week08
+drwxr-xr-x  2 disa.ainun StafCS 4096 Feb 14 15:40 week09
+drwxr-xr-x  2 disa.ainun StafCS 4096 Feb 14 15:41 week10
+drwxr-xr-x  2 disa.ainun StafCS 4096 Feb 14 15:41 xtra
+/home/fasilkom/mahasiswa/d/disa.ainun/os171/week01
