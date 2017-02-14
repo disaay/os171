@@ -20,3 +20,4 @@ drwxr-xr-x  2 disa.ainun StafCS 4096 Feb 14 15:40 week09
 drwxr-xr-x  2 disa.ainun StafCS 4096 Feb 14 15:41 week10
 drwxr-xr-x  2 disa.ainun StafCS 4096 Feb 14 15:41 xtra
 /home/fasilkom/mahasiswa/d/disa.ainun/os171/week01
+Today is 14 Feb 2017 at 16:25:05
