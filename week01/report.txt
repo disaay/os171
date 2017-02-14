@@ -1,0 +1,1 @@
+tugas lab sistem operasi pada week01 adalah belajar menggunakan putty, membuat folder, push dan pull, remove files, menggunakan text editor nano dan vi
