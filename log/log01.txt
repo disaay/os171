@@ -1,6 +1,10 @@
-w01-130214-13-LR-About: Mempelajari HKI dan Scripting, From: Lecturer
-w01-130214-13-LR-About: Mempelajari HKI dan Scripting, From: Lecturer
-w01-130214-14-LR-About: Mempelajari HKI dan Scripting, From: Lecturer
-w01-130214-14-LR-About: Mempelajari HKI dan Scripting, From: Lecturer
-w01-130214-15-PS-About: Mengerjakan task lab01
-w01-130214-15-PS-About: Mengerjakan task lab01
+w01-170214-13-LR-About: Mempelajari HKI dan Scripting, From: Lecturer
+w01-170214-13-LR-About: Mempelajari HKI dan Scripting, From: Lecturer
+w01-170214-14-LR-About: Mempelajari HKI dan Scripting, From: Lecturer
+w01-170214-14-LR-About: Mempelajari HKI dan Scripting, From: Lecturer
+w01-170214-15-PS-About: Mengerjakan task lab01
+w01-170214-15-PS-About: Mengerjakan task lab01
+w01-170216-13-LR-About: Mempelajari Regex, Perbedaan Open Source dan Free Software, From: Lecturer
+w01-170216-13-LR-About: Mempelajari Regex, Perbedaan Open Source dan Free Software, From: Lecturer
+w01-170216-14-LR-About: Mempelajari Regex, Perbedaan Open Source dan Free Software, From: Lecturer
+w01-170216-14-LR-About: Mempelajari Regex, Perbedaan Open Source dan Free Software, From: Lecturer
