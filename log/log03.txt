@@ -1,1 +1,25 @@
+w03-170227-13-PS-About: Membaca task lab02
+w03-170227-13-PS-About: Membaca task lab02
+w03-170228-13-LR-About: Mempelajari BIOS, UEFI, mengetahui proses yang terjadi ketika computer dinyalakan, From: Lecturer
+w03-170228-13-LR-About: Mempelajari BIOS, UEFI, mengetahui proses yang terjadi ketika computer dinyalakan, From: Lecturer
+w03-170228-14-LR-About: Mempelajari BIOS, UEFI, mengetahui proses yang terjadi ketika computer dinyalakan, From: Lecturer
+w03-170228-14-LR-About: Mempelajari BIOS, UEFI, mengetahui proses yang terjadi ketika computer dinyalakan, From: Lecturer
+w03-170228-15-PS-About: Mengerjakan task lab02
+w03-170228-15-PS-About: Mengerjakan task lab02
+w03-170228-16-PS-About: Mengerjakan task lab02
+w03-170228-16-PS-About: Mengerjakan task lab02
+w03-170302-09-LR-About: Menonton video mengenai systemd, From:320-ProfMesser-2014-init-systemd-and-Upstart-Comptia-linux
+w03-170302-09-LR-About: Menonton video mengenai systemd, From:320-ProfMesser-2014-init-systemd-and-Upstart-Comptia-linux
+w03-170302-15-DS-About: Berdiskusi bersama teman mengenai materi dikelas yaitu proses yang terjadi ketika komputer baru dinyalakan
+w03-170302-15-DS-About: Berdiskusi bersama teman mengenai materi dikelas yaitu proses yang terjadi ketika komputer baru dinyalakan
+w03-170302-13-LR-About: Mempelajari Pointer dan systemd, From: Lecturer
+w03-170302-13-LR-About: Mempelajari Pointer dan systemd, From: Lecturer
+w03-170302-14-LR-About: Mempelajari Pointer dan systemd, From: Lecturer
+w03-170302-14-LR-About: Mempelajari Pointer dan systemd, From: Lecturer
+w03-170302-15-DS-About: Berdiskusi bersama teman mengenai materi dikelas yaitu pointer
+w03-170302-15-DS-About: Berdiskusi bersama teman mengenai materi dikelas yaitu pointer
+w03-170304-10-DS-About: Berdiskusi bersama teman mengenai materi dikelas minggu ini yaitu pointer, bios, uefi, 
+w03-170304-10-DS-About: Berdiskusi bersama teman mengenai materi dikelas minggu ini yaitu pointer, bios, uefi 
+w03-170304-11-DS-About: Berdiskusi bersama teman mengenai materi dikelas minggu ini yaitu pointer, bios, uefi
+w03-170304-11-DS-About: Berdiskusi bersama teman mengenai materi dikelas minggu ini yaitu pointer, bios, uefi
 
