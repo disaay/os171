@@ -1,0 +1,15 @@
+w04-170306-18-PS-About: Membaca task lab04
+w04-170306-18-PS-About: Membaca task lab04
+w04-170307-15-PS-About: Mengerjakan task lab04
+w04-170307-15-PS-About: Mengerjakan task lab04
+w04-170307-16-PS-About: Mengerjakan task lab04
+w04-170307-16-PS-About: Mengerjakan task lab04
+w04-170307-17-PS-About: Mengerjakan task lab04
+w04-170307-17-PS-About: Mengerjakan task lab04
+w04-170309-13-LR-About: Belajar pointer, I/O from: Lecturer 
+w04-170309-13-LR-About: Belajar pointer, I/O from: Lecturer 
+w04-170309-14-LR-About: Belajar pointer, I/O from: Lecturer 
+w04-170309-14-LR-About: Belajar pointer, I/O from: Lecturer 
+w04-170310-13-PS-About: Menyelesaikan task lab04
+w04-170310-13-PS-About: Menyelesaikan task lab04
+w04-170310-13-DS-About: diskusi mengenai i/o dan pointer
