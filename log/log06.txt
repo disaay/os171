@@ -1,0 +1,26 @@
+w06-170411-18-LR-About: Processes From:OSCE book
+w06-170411-18-LR-About: Processes From:OSCE book
+w06-170411-19-LR-About: Threads From:OSCE book
+w06-170411-19-LR-About: Threads From:OSCE book
+w06-170412-19-PS-About: Demo fork
+w06-170412-19-PS-About: Demo fork 
+w06-170412-21-PS-About: Demo fork
+w06-170412-21-PS-About: Demo fork 
+w06-170412-22-PS-About: Demo fork
+w06-170413-09-LR-About: Processes From:OSCE book
+w06-170413-09-LR-About: Threads From:OSCE book
+w06-170413-10-LR-About: Threads From:OSCE book
+w06-170413-13-LR-About: Processes Synchronization From: Lecturer
+w06-170413-13-LR-About: Processes Synchronization From: Lecturer
+w06-170413-14-LR-About: Processes Synchronization From: Lecturer
+w06-170413-14-LR-About: Processes Synchronization From: Lecturer
+w06-170414-15-PS-About: Mengerjakan Lab06
+w06-170414-15-PS-About: Mengerjakan Lab06
+w06-170414-16-PS-About: Mengerjakan Lab06
+w06-170414-16-PS-About: Mengerjakan Lab06
+w06-170414-17-PS-About: Mengerjakan Lab06
+w06-170414-17-PS-About: Mengerjakan Lab06
+w06-170414-18-PS-About: Mengerjakan Lab06
+w06-170414-18-PS-About: Mengerjakan Lab06
+w06-170414-19-PS-About: Mengerjakan Lab06
+w06-170414-19-PS-About: Membuat Log06.txt
