@@ -1,0 +1,26 @@
+w05-170312-21-PS-About: Lab05
+w05-170312-21-PS-About: Lab05
+w05-170312-22-PS-About: Lab05
+w05-170312-22-PS-About: Lab05
+w05-170313-19-LR-About: Demo week05-memory
+w05-170313-19-LR-About: Demo week05-memory 
+w05-170314-16-DS-About: Address Binding & Linking 
+w05-170314-16-DS-About: Address Binding & Linking
+w05-170314-17-LR-About: MMU 
+w05-170315-20-LR-About: Memory Allocation
+w05-170315-20-LR-About: Memory Allocation
+w05-170315-21-LR-About: Memory Allocation
+w05-170315-21-LR-About: Memory Allocation
+w05-170315-22-LR-About: Demo week05-memory
+w05-170316-13-LR-About: Fragmentasi 
+w05-170316-10-LR-About: Fragmentasi
+w05-170316-10-LR-About: Fragmentasi
+w05-170316-11-LR-About: Fragmentasi 
+w05-170316-13-LR-About: Swapping From: Lecturer
+w05-170316-13-PS-About: FIFO, LRU, Optimalization From: Lecturer
+w05-170316-14-PS-About: PTE, PT1, PT2, offset From: Lecturer
+w05-170316-14-PS-About: PTE, PT1, PT2, offset From: Lecturer
+w05-170316-20-PS-About: Paging
+w05-170316-20-PS-About: Paging
+w05-170324-12-PS-About: Lab05
+w05-170324-12-PS-About: Lab05
