@@ -1,0 +1,19 @@
+w07-170417-20-PS: Mencoba soal demo synchronization 
+w07-170417-20-PS: Mencoba soal demo synchronization 
+w07-170418-13-LR: membahas demo synchronization, From: Lecturer
+w07-170418-13-LR: membahas demo synchronization, From: Lecturer
+w07-170418-14-LR: membahas demo synchronization, From: Lecturer
+w07-170420-13-LR: About: scheduling and socket , From: Lecturer
+w07-170420-13-LR: About: scheduling and socket , From: Lecturer
+w07-170420-14-LR: About: scheduling and socket , From: Lecturer
+w07-170420-14-LR: About: scheduling and socket , From: Lecturer
+w07-170421-15-PS: Lab operation system
+w07-170421-15-PS: Lab operation system
+w07-170421-16-PS: Lab operation system
+w07-170421-16-PS: Lab operation system
+w07-170421-16-PS: Lab operation system
+w07-170421-17-PS: Lab operation system
+w07-170421-17-PS: Lab operation system
+w07-170421-21-LR: reading article about synchronization
+w07-170421-21-DS: Discuss about synchronization
+
