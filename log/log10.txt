@@ -15,8 +15,8 @@ w10-170512-08-PS:Materi UAS
 w10-170512-10-DS:Diskusi Materi UAS
 w10-170512-10-DS:Diskusi Materi UAS
 w10-170512-11-DS:Diskusi Materi UAS
-w10-170513-10-PS:About: Status process
-w10-170513-10-PS:About: Status process
-w10-170513-11-PS:About: Status process
-w10-170513-11-PS:About: Status process
-w10-170513-12-PS:About: Status process
+w10-170513-10-PS-About: Status process
+w10-170513-10-PS-About: Status process
+w10-170513-11-PS-About: Status process
+w10-170513-11-PS-About: Status process
+w10-170513-12-PS-About: Status process
